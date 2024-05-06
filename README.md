@@ -1,2 +1,2 @@
-# counter-project
+# number-counter-project
 increasing or decreasing number
